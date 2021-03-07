@@ -33,3 +33,4 @@ yarn-error.log*
 # mdx
 .mdx-data
 /.vs
+/package-lock.json
