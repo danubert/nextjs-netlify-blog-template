@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: release/1.0.1
+  branch: master
   repo: danubert/nextjs-netlify-blog-template
 media_folder: public/images
 public_folder: /images
